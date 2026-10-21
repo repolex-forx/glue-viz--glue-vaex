@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-vaex/commit/6451a93419bfed28346b6dd0cfe5de11f22380b3",
       "git:hexsha": "6451a93419bfed28346b6dd0cfe5de11f22380b3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
