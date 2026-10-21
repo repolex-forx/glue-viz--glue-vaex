@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "glue-viz",
+  "repo": "glue-vaex",
+  "versions": [
+    {
+      "commit": "6451a93419bfed28346b6dd0cfe5de11f22380b3",
+      "parsed_at": "2026-10-21T21:26:45.659951+00:00",
+      "filetree": "filetree/6451a93419bfed28346b6dd0cfe5de11f22380b3.nq.gz",
+      "blobs": [
+        "blob/8ae0f66bb52e5dd338f8859f14f512500be74236.nq.gz",
+        "blob/9d5d250d095009403f66851f48866f5cfe39703b.nq.gz",
+        "blob/a40dba2f81f19ff4f5c41f4fdc92f64302c6452e.nq.gz",
+        "blob/993bb51da42a95cf087081679b395c31c8320f7d.nq.gz",
+        "blob/0f42bc57ca444400830ed228c2a64a00d454674d.nq.gz",
+        "blob/bcbbe69adf7afff64550994695792ba292e766bf.nq.gz",
+        "blob/6853c367b2591ed0b8415b0bc1b3a9feec44e50b.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/2c4fc82ccf1332a085e4c73ec99da29bbd221d09.nq.gz",
+        "blob/fb46bc2c88da2c26f4397536df34efe4726e8277.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
